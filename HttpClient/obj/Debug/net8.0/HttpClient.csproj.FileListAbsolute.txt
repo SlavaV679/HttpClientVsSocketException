@@ -1,0 +1,14 @@
+C:\Projects\Code\Git\telega\PROJECTS\HttpClient\HttpClient\bin\Debug\net8.0\HttpClient.exe
+C:\Projects\Code\Git\telega\PROJECTS\HttpClient\HttpClient\bin\Debug\net8.0\HttpClient.deps.json
+C:\Projects\Code\Git\telega\PROJECTS\HttpClient\HttpClient\bin\Debug\net8.0\HttpClient.runtimeconfig.json
+C:\Projects\Code\Git\telega\PROJECTS\HttpClient\HttpClient\bin\Debug\net8.0\HttpClient.dll
+C:\Projects\Code\Git\telega\PROJECTS\HttpClient\HttpClient\bin\Debug\net8.0\HttpClient.pdb
+C:\Projects\Code\Git\telega\PROJECTS\HttpClient\HttpClient\obj\Debug\net8.0\HttpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Code\Git\telega\PROJECTS\HttpClient\HttpClient\obj\Debug\net8.0\HttpClient.AssemblyInfoInputs.cache
+C:\Projects\Code\Git\telega\PROJECTS\HttpClient\HttpClient\obj\Debug\net8.0\HttpClient.AssemblyInfo.cs
+C:\Projects\Code\Git\telega\PROJECTS\HttpClient\HttpClient\obj\Debug\net8.0\HttpClient.csproj.CoreCompileInputs.cache
+C:\Projects\Code\Git\telega\PROJECTS\HttpClient\HttpClient\obj\Debug\net8.0\HttpClient.dll
+C:\Projects\Code\Git\telega\PROJECTS\HttpClient\HttpClient\obj\Debug\net8.0\refint\HttpClient.dll
+C:\Projects\Code\Git\telega\PROJECTS\HttpClient\HttpClient\obj\Debug\net8.0\HttpClient.pdb
+C:\Projects\Code\Git\telega\PROJECTS\HttpClient\HttpClient\obj\Debug\net8.0\HttpClient.genruntimeconfig.cache
+C:\Projects\Code\Git\telega\PROJECTS\HttpClient\HttpClient\obj\Debug\net8.0\ref\HttpClient.dll
